@@ -4,6 +4,8 @@ import styles from "./page.module.css";
 const constantOutside = 'it-should-fail'
 
 export default function Home() {
+
+  const CONSTANT_INSIDE = 'it-should-fail'
   return (
     <div className={styles.page}>
       <main className={styles.main}>
