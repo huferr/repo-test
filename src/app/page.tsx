@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by aaaediting <code>test</code>.
+            Get starteddd by aaaediting <code>test</code>.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
