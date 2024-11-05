@@ -2,6 +2,7 @@ import Image from "next/image";
 import styles from "./page.module.css";
 
 const constantOutside = 'it-should-fail'
+var wrongVar = ''
 
 export default function Home() {
 
